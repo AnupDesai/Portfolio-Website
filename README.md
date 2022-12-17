@@ -7,7 +7,9 @@
 • AWS EC2 was used to establish an instance of the website on the internet
 
 
-Here are some screenshots of my work
+
+Here are some screenshots of my work:
+
 
 <img width="958" alt="port1" src="https://user-images.githubusercontent.com/68967101/208257996-6c7b6801-45a0-4df1-be6f-28755debd309.png">
 
