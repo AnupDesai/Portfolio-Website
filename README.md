@@ -7,6 +7,8 @@
 • AWS EC2 was used to establish an instance of the website on the internet
 
 
+Please visit my portfolio @: http://54.234.83.157/
+
 
 Here are some screenshots of my work:
 
